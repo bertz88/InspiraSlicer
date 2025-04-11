@@ -129,7 +129,7 @@ msgid "Key 1~9"
 msgstr "Key 1~9"
 
 msgid "Choose filament"
-msgstr "Choose filament"
+msgstr "pilih filament"
 
 msgid "Edge detection"
 msgstr "Edge detection"
